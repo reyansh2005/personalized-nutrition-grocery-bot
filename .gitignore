@@ -1,0 +1,11 @@
+.env
+.env.example
+grocery.db
+.chroma/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+*.egg-info/
+.streamlit/

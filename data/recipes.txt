@@ -1,0 +1,82 @@
+RECIPE: High-Protein Chicken and Rice
+Ingredients: chicken breast, brown rice, spinach, olive oil, garlic.
+Instructions: Cook rice. Pan-sear chicken in olive oil until fully cooked. Serve with spinach.
+Nutrition estimate per serving: 520 calories, 42 g protein, 48 g carbohydrates, 16 g fat.
+Allergy note: Use olive oil instead of butter for a dairy-free meal.
+
+RECIPE: Budget Bean and Egg Bowl
+Ingredients: canned beans, eggs, brown rice, spinach, olive oil.
+Instructions: Warm beans, cook rice and eggs, then combine with spinach.
+Nutrition estimate per serving: 460 calories, 27 g protein, 55 g carbohydrates, 14 g fat.
+Allergy note: Naturally dairy-free; check packaged ingredients.
+
+RECIPE: Dairy-Free Yogurt Parfait
+Ingredients: almond milk yogurt, bananas, oats, chia seeds.
+Instructions: Layer ingredients and chill before serving.
+Nutrition estimate per serving: 330 calories, 12 g protein, 48 g carbohydrates, 10 g fat.
+
+RECIPE: Indian Chickpea and Spinach Curry
+Ingredients: chickpeas, spinach, onion, tomato, garlic, ginger, cumin, turmeric, garam masala, brown rice.
+Instructions: Saute onion, garlic, and ginger. Add spices, tomato, chickpeas, and a little water. Simmer and fold in spinach. Serve with rice.
+Nutrition estimate per serving: 490 calories, 20 g protein, 78 g carbohydrates, 11 g fat, 15 g fiber.
+Allergy note: Naturally dairy-free when prepared without butter, cream, or yogurt.
+
+RECIPE: Indian Masoor Dal with Roti
+Ingredients: red lentils, whole-wheat roti, onion, tomato, garlic, cumin, turmeric, coriander, spinach.
+Instructions: Simmer lentils with turmeric until soft. Temper cumin, onion, garlic, and tomato in oil, then mix into the dal. Serve with roti and spinach.
+Nutrition estimate per serving: 450 calories, 23 g protein, 72 g carbohydrates, 9 g fat, 17 g fiber.
+Allergy note: Naturally vegetarian and dairy-free; use oil instead of ghee.
+
+RECIPE: Vegetable Moong Dal Khichdi
+Ingredients: yellow moong dal, brown rice, carrots, peas, spinach, cumin, turmeric, ginger.
+Instructions: Rinse rice and dal. Cook with vegetables, spices, and water until soft and porridge-like.
+Nutrition estimate per serving: 410 calories, 19 g protein, 70 g carbohydrates, 7 g fat, 13 g fiber.
+Allergy note: Dairy-free when served without ghee or yogurt.
+
+RECIPE: Rajma Rice Bowl
+Ingredients: kidney beans, brown rice, onion, tomato, garlic, ginger, cumin, chili powder.
+Instructions: Cook kidney beans until tender. Prepare a tomato-onion masala with spices, stir in the beans, and serve over rice.
+Nutrition estimate per serving: 520 calories, 22 g protein, 88 g carbohydrates, 8 g fat, 18 g fiber.
+Allergy note: Vegetarian and naturally dairy-free.
+
+RECIPE: Besan Vegetable Chilla
+Ingredients: chickpea flour, onion, tomato, spinach, green chili, cumin, water, olive oil.
+Instructions: Mix chickpea flour, water, vegetables, and spices into a batter. Cook thin pancakes on a lightly oiled pan.
+Nutrition estimate per serving: 360 calories, 18 g protein, 48 g carbohydrates, 11 g fat, 10 g fiber.
+Allergy note: Vegetarian and dairy-free; do not add paneer or yogurt.
+
+RECIPE: Tofu Tikka Masala
+Ingredients: firm tofu, tomato, onion, garlic, ginger, bell pepper, turmeric, garam masala, coconut milk.
+Instructions: Bake or pan-sear tofu. Cook onion, spices, tomato, and coconut milk into a sauce, then add tofu and bell pepper.
+Nutrition estimate per serving: 430 calories, 27 g protein, 32 g carbohydrates, 22 g fat.
+Allergy note: Vegan and dairy-free; use certified gluten-free ingredients if required.
+
+RECIPE: Peanut Vegetable Poha
+Ingredients: flattened rice, peanuts, onion, peas, carrot, mustard seeds, turmeric, lemon.
+Instructions: Rinse flattened rice. Temper mustard seeds, cook onion and vegetables, then fold in the flattened rice, peanuts, turmeric, and lemon.
+Nutrition estimate per serving: 390 calories, 12 g protein, 61 g carbohydrates, 12 g fat.
+Allergy note: Dairy-free; omit peanuts for a peanut allergy and use roasted chickpeas instead.
+
+RECIPE: Lentil Tomato Pasta
+Ingredients: red lentils, whole-wheat pasta, canned tomatoes, onion, garlic, spinach, olive oil, basil.
+Instructions: Cook pasta. Simmer lentils with tomatoes, onion, garlic, and water until tender. Combine with pasta and spinach.
+Nutrition estimate per serving: 540 calories, 28 g protein, 86 g carbohydrates, 12 g fat, 18 g fiber.
+Allergy note: Dairy-free when served without cheese.
+
+RECIPE: Tuna Bean Salad
+Ingredients: canned tuna, canned beans, cucumber, tomato, onion, lemon, olive oil, black pepper.
+Instructions: Drain tuna and beans. Mix with chopped vegetables, lemon juice, olive oil, and pepper. Chill before serving.
+Nutrition estimate per serving: 390 calories, 36 g protein, 32 g carbohydrates, 12 g fat.
+Allergy note: Dairy-free; check tuna and bean labels for packaged allergens.
+
+RECIPE: Chicken Lentil Soup
+Ingredients: chicken breast, red lentils, carrots, onion, celery, tomato, garlic, cumin.
+Instructions: Saute vegetables and garlic. Add diced chicken, lentils, tomato, spices, and water. Simmer until the chicken is fully cooked and lentils are soft.
+Nutrition estimate per serving: 470 calories, 41 g protein, 48 g carbohydrates, 10 g fat, 14 g fiber.
+Allergy note: Dairy-free when prepared without cream or butter.
+
+RECIPE: Overnight Oats with Chia and Banana
+Ingredients: rolled oats, unsweetened soy milk, chia seeds, banana, peanut butter, cinnamon.
+Instructions: Combine oats, soy milk, chia seeds, and cinnamon. Refrigerate overnight and top with banana and peanut butter.
+Nutrition estimate per serving: 420 calories, 18 g protein, 59 g carbohydrates, 15 g fat, 12 g fiber.
+Allergy note: Dairy-free; use a nut-free seed butter when required.
