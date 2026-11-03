@@ -19,6 +19,8 @@ Set `LLM_API_KEY` in `.env` for Groq or another OpenAI-compatible provider. The 
 
 The project includes `data/usda_foundation_foods.json`, a USDA FoodData Central Foundation Foods export. On startup it is imported into the SQLite `nutrition` table. Set `USDA_DATASET_PATH` in `.env` to use a different export.
 
+For small cloud instances, set `ENABLE_RAG=false` to skip the memory-intensive first-time embedding and ChromaDB initialization. The application will continue using SQLite, USDA nutrition data, pantry data, and the configured LLM. Keep `ENABLE_RAG=true` for local development or a larger instance.
+
 ## Run the backend
 
 ```powershell

@@ -79,6 +79,8 @@ def _build_vector_store():
 
 def retrieve_context(query: str) -> str:
     """Return the two most relevant nutrition or recipe chunks."""
+    if os.getenv("ENABLE_RAG", "true").lower() in {"0", "false", "no", "off"}:
+        return "RAG retrieval is disabled for this deployment; use the supplied structured data."
     store = _build_vector_store()
     documents = store.similarity_search(query, k=2)
     return "\n\n---\n\n".join(document.page_content for document in documents)
