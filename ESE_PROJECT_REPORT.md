@@ -335,7 +335,7 @@ sequenceDiagram
     Streamlit-->>User: Render response and source note
 ```
 
-### 5.8.5 Deployment and startup flow
+### 5.8.5 Local startup flow
 
 ```mermaid
 flowchart TD
@@ -497,14 +497,16 @@ The USDA integration improves exact nutrient lookup and makes the project more r
 
 Future work should include barcode scanning, live grocery-store APIs, robust product substitution, user profiles, meal history, multi-day planning, and nutrition tracking. The backend should calculate purchase totals in Python, attach `is_in_pantry` to every ingredient, validate provider output with a typed schema, and expose warm-up and health metrics. With these improvements, the project can progress from a demonstrator into a more reliable personal grocery and nutrition platform.
 
+The submitted implementation is a locally validated prototype rather than a publicly deployed service. The FastAPI backend and Streamlit frontend were run and tested in the development environment, while cloud deployment remains optional future work. This means the report makes no claim about public uptime, cloud scalability, or production hosting.
+
 ---
 
 # 8. Links & References
 
 ## 8.1 Project Links
 
-- **GitHub Repository:** [INSERT GITHUB REPO LINK HERE]
-- **Live Deployment:** [INSERT RENDER/STREAMLIT DEPLOYMENT LINK HERE]
+- **GitHub Repository:** [reyansh2005/personalized-nutrition-grocery-bot](https://github.com/reyansh2005/personalized-nutrition-grocery-bot)
+- **Live Deployment:** Not deployed; the application was validated locally using FastAPI and Streamlit.
 
 ## 8.2 Technical References
 
